@@ -45,5 +45,5 @@ jobs:
         run: helm lint thiago-site-helm/
 
       - name: 🚀 Deploy Helm Chart
-        run: helm upgrade -i thiago-site-helm ./thiago-site-helm --create-namespace -n thiago-portfolio-v2 --atomic
+        run: helm upgrade -i thiago-site-helm ./thiago-site-helm --create-namespace -n thiago-portfolio-v3 --atomic
 
