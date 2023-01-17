@@ -1,7 +1,7 @@
 # Parametros da minha aplicação
 
 namespace:
-  name: thiago-portfolio-v1
+  name: thiago-portfolio-v2
 
 deployment:
   name: deployment-site
